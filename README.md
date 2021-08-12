@@ -1,6 +1,6 @@
 # Hidoku-Solver
 
-A hidoku solver program for square and hexagonal cell written by mahdi omidiyan.
+A hidoku solver program for square and hexagonal cells written in c programming language by mahdi omidiyan.
 
 This Project is licensed under terms of the MIT license.
 
