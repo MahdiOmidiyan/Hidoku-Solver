@@ -1,4 +1,5 @@
 # Hidoku-Solver
+
 A hidoku solver program for square and hexagonal cell.
 This Project is licensed under terms of the MIT license.
 
